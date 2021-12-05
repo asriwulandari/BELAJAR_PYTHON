@@ -1,0 +1,7 @@
+belajar python
+a. PROGRAM 1
+- berkenalan dengan command prompt
+- berkenalan dengan Git dan Github
+- berkenalan dengan program environment
+- berkenalan dengan instalasi jupyter notebook
+b. PROGRAM 2
