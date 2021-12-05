@@ -4,4 +4,8 @@ a. PROGRAM 1
 - berkenalan dengan Git dan Github
 - berkenalan dengan program environment
 - berkenalan dengan instalasi jupyter notebook
+- sekilas info tentang KOLAWORK
 b. PROGRAM 2
+c. PROGRAM 3
+d. PROGRAM 4
+e. PROGRAM 5
